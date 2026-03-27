@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiLineTextWidget</string>
+    <string name="build_info_template">
+        Manufacturer: %1$s\n
+        Model: %2$s\n
+        Brand: %3$s\n
+        Type: %4$s\n
+        User: %5$s\n
+        Base: %6$d\n
+        Incremental: %7$s\n
+        SDK: %8$d\n
+        Version Code: %9$s\n
+        Display: %10$s
+    </string>
+</resources>
